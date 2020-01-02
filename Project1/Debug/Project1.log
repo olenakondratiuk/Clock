@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+d:\drive\projects\clock\project1\header.h(41): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\drive\projects\clock\project1\header.h(46): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\drive\projects\clock\project1\header.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\drive\projects\clock\project1\header.h(58): warning C4305: 'argument': truncation from 'double' to 'float'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\Drive\Projects\Clock\Debug\Project1.exe
